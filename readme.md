@@ -36,20 +36,19 @@ I'm starting today in this first commit, hope I can keep this readme up to date 
 
 ***Stats:*** 😄
 
-***Code:*** learn more for angular code
+***Code:*** Learn more for angular code
 
 ***Comments:*** Maybe I try something with Assembly, just to know more about it
 
-<!-- 
-
 ### Day #5
 
-***Stats:***
+***Stats:*** 🤔
 
-***Code:***
+***Code:*** Learning java spring boot
 
 ***Comments:*** [...]
 
+<!-- 
 ### Day #6
 
 ***Stats:***
