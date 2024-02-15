@@ -32,13 +32,15 @@ I'm starting today in this first commit, hope I can keep this readme up to date 
 
 ***Comments:*** Finaly I found the way to use HttpClient correcly without error
 
-<!-- ### Day #4
+### Day #4
 
-***Stats:***
+***Stats:*** 😄
 
-***Code:***
+***Code:*** learn more for angular code
 
-***Comments:*** [...]
+***Comments:*** Maybe I try something with Assembly, just to know more about it
+
+<!-- 
 
 ### Day #5
 
