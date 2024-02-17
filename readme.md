@@ -48,15 +48,15 @@ I'm starting today in this first commit, hope I can keep this readme up to date 
 
 ***Comments:*** [...]
 
-<!-- 
 ### Day #6
 
-***Stats:***
+***Stats:*** 😳
 
-***Code:***
+***Code:*** Design patterns and S.O.L.I.D Java
 
-***Comments:*** [...]
+***Comments:*** almost finishing the bootcamp, there are 2 projects remains but it's being a challenge for me that didn't have any contact with Java previously
 
+<!-- 
 ### Day #7
 
 ***Stats:***
