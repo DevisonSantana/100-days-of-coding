@@ -56,15 +56,15 @@ I'm starting today in this first commit, hope I can keep this readme up to date 
 
 ***Comments:*** almost finishing the bootcamp, there are 2 projects remains but it's being a challenge for me that didn't have any contact with Java previously
 
-<!-- 
 ### Day #7
 
-***Stats:***
+***Stats:*** 😪
 
-***Code:***
+***Code:*** I learn about Java unit tests and how to use Mokito
 
 ***Comments:*** [...]
 
+<!-- 
 ### Day #8
 
 ***Stats:***
