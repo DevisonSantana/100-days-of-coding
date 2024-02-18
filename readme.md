@@ -64,15 +64,15 @@ I'm starting today in this first commit, hope I can keep this readme up to date 
 
 ***Comments:*** [...]
 
-<!-- 
 ### Day #8
 
-***Stats:***
+***Stats:*** 💤
 
-***Code:***
+***Code:*** No code for today, let's take a rest
 
 ***Comments:*** [...]
 
+<!-- 
 ### Day #9
 
 ***Stats:***
